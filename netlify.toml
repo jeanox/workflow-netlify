@@ -1,6 +1,6 @@
 [build]
-  command = "your build command here"
-  publish = "your publish directory here"
+  command = "npm run build"
+  publish = "build"
   
 [[deploy]]
   provider = "netlify"
