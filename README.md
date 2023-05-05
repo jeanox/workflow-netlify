@@ -1,3 +1,7 @@
+# BIKI is here, biki is queer
+
+...it's not clever, but it IS true
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
